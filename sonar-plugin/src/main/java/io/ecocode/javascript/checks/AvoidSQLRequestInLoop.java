@@ -14,7 +14,7 @@ public class AvoidSQLRequestInLoop implements EslintBasedCheck {
 
     @Override
     public String eslintKey() {
-        return "@ecocode/avoid-high-accuracy-geolocation";
+        return "@ecocode/avoid-sql-request-in-loop";
     }
 
 }
