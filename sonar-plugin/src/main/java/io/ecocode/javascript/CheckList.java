@@ -21,7 +21,8 @@ public class CheckList {
                 NoImportAllFromLibrary.class,
                 NoMultipleAccessDomElement.class,
                 NoMultipleStyleChanges.class,
-                PreferCollectionsWithPagination.class
+                PreferCollectionsWithPagination.class,
+                UseLoopsInsteadOfForEachReduce.class
         );
     }
 
